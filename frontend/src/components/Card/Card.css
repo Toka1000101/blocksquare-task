@@ -1,0 +1,11 @@
+
+
+.Card {
+    filter: blur(5px);
+}
+.Card:hover {
+    filter: blur(0px);
+}
+.Card > * {
+    pointer-events: none;
+}

@@ -1,0 +1,14 @@
+:root {
+  --size: 25px;
+}
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  background-color: gray;
+}
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}

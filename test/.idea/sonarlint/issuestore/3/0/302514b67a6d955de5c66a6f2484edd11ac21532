@@ -1,0 +1,11 @@
+
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Çäµ8§ˆ¤ÿ1J$42399bb5-b525-4c32-9c46-946451eb81ed
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Øóı8§ˆ¤ÿ1J$098e6ad3-2775-4235-8601-fa045940f06e
+˜	java:S1173"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’Ø÷§úÿÿÿÿ8§ˆ¤ÿ1J$3358e31f-cc01-40a0-9be3-7c90b9971da9
+˜	java:S117="QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûİ®õûÿÿÿÿ8§ˆ¤ÿ1J$12392289-3b0f-4df4-93b2-fd19387e1632
+£
+java:S1488"`Immediately return this expression instead of assigning it to the temporary variable "solution".(Ïµ³İ8¨ˆ¤ÿ1J$7a1ba9b8-2722-487d-a23d-5cd2144c8961
+	java:S112]"FDefine and throw a dedicated exception instead of using a generic one.(Ï£õäüÿÿÿÿ8  ¤ÿ1J$18289ea5-0ea1-4621-a4c4-e8ab9ec13f29
+	java:S112="FDefine and throw a dedicated exception instead of using a generic one.(ûİ®õûÿÿÿÿ8öÉ®ÿ1J$24310325-0d98-48e1-80c2-07fec69b76ae
+š
+java:S3776="RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(ûİ®õûÿÿÿÿ8®ˆ¤ÿ1J$bf51c97e-625b-402f-894c-a617f20a06af

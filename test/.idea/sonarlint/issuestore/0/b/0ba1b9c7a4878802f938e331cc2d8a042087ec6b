@@ -1,0 +1,11 @@
+
+m
+java:S1481"*Remove this unused "board" local variable.(š¬–ö8îÂŠµÿ1J$41e3b0c6-d81d-4204-bc50-c404a8e1cd59
+r	java:S106"+Replace this use of System.out by a logger.(š—°øÿÿÿÿ8ğÂŠµÿ1J$a0615951-8ded-4c56-8ee1-b3dc836104cf
+s
+java:S1481"+Remove this unused "board7" local variable.(’æÜ™ùÿÿÿÿ8ğÂŠµÿ1J$03bc379e-1f27-4083-a3a1-70f2c4660479
+x
+java:S1481$"5Remove this unused "boardNoSolution5" local variable.(ïÍÖ¥8ğÂŠµÿ1J$a17e6810-17ec-436f-ade9-7acae9105fe0
+m	java:S1067"+Replace this use of System.out by a logger.(Â•Œ¡8¶µÿ1J$0ff6378f-682f-4c5b-97be-fe71d88d7b91
+s
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ğÂŠµÿ1J$05c5b90f-5ecc-4ecb-92ed-80a5da3102c0
